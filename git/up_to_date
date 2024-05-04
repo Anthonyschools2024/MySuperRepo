@@ -1,1 +1,1 @@
-touch up_to_date
+git log -1 --format=%H > up_to_date
